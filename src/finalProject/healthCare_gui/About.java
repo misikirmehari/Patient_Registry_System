@@ -25,7 +25,7 @@ public class About {
 	public static void about(){
 		
 		Text aboutText = new Text();
-		aboutText.setText(" Health Insurance \n"
+		aboutText.setText(" Health care \n"
 		+ "Final Project\n"
 			+"Author: Misikir Mehari\n "
 			+"Computer Sceince 2.\n");
