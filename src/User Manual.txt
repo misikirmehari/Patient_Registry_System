@@ -1,0 +1,8 @@
+ 
+ Read before the use of this application
+  - Inorder to use this application a java fx jar should be installed.
+  - This application is written on a java platform and a java se is required
+	to run this application.
+  - This program can be used to register a patient in any clinical setting.
+  - Enjoy and please send your comments and suggestions to mskrmr84@gmail.com and
+	thankyou for using this appliaction.

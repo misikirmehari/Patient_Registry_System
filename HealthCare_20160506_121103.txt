@@ -1,0 +1,9 @@
+ERROR - 12:11:03: java.net.MalformedURLException: unknown protocol: pathmap
+ERROR - 12:11:18: java.net.MalformedURLException: unknown protocol: pathmap
+ERROR - 12:11:38: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///Button/.classpath, 2, 12)
+ERROR - 12:11:38: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///Button/.classpath, 2, 12)
+ERROR - 12:12:52: java.net.MalformedURLException: unknown protocol: pathmap
+ERROR - 12:13:11: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 1 of 1-byte UTF-8 sequence.
+ERROR - 12:13:11: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 1 of 1-byte UTF-8 sequence.
+ERROR - 12:13:54: org.xml.sax.SAXParseExceptionpublicId: /HealthCare/src/finalProject/healthCareHospital/Patient.java; systemId: file:///HealthCare/src/finalProject/healthCareHospital/Patient.java; lineNumber: 3; columnNumber: 1; Content is not allowed in prolog.
+ERROR - 12:13:54: org.xml.sax.SAXParseExceptionpublicId: /HealthCare/src/finalProject/healthCareHospital/Patient.java; systemId: file:///HealthCare/src/finalProject/healthCareHospital/Patient.java; lineNumber: 3; columnNumber: 1; Content is not allowed in prolog.
